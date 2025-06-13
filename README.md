@@ -68,8 +68,8 @@
             border: 1px solid #ccc;
         }
         .contact-form button {
-            background-color: #4CAF50;
-            color: white;
+            background-color#4CAF50;
+            color:brown;
             border: none;
             padding: 10px 20px;
             cursor: pointer;
@@ -95,7 +95,7 @@
         <a href="#atividades">Atividades</a>
         <a href="#cronograma">Cronograma</a>
         <a href="#orçamento">Orçamento</a>
-        <a href="#contato">Contato</a>
+        <a href="#contato">41988947412</>
     </nav>
 
     <!-- Seções do Site -->
